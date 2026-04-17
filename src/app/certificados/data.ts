@@ -57,15 +57,60 @@ export const eventos: Record<string, EventoInfo> = {
 // =====================================================
 
 export const ponentesForo1: Ponente[] = [
-  { id: 1, nombre: "Milton Ojeda", tema: "Gestión del Balance Hídrico", estado: "certificado" },
-  { id: 2, nombre: "Milagros Zapata", tema: "Manejo de Aguas Residuales", estado: "certificado" },
-  { id: 3, nombre: "Catalina Herrera", tema: "Sostenibilidad Ambiental", estado: "certificado" },
-  { id: 4, nombre: "Marco Figueroa", tema: "Infraestructura Hídrica", estado: "certificado" },
-  { id: 5, nombre: "Nelson Chui", tema: "Políticas Públicas del Agua", estado: "certificado" },
-  { id: 6, nombre: "José C. de Piérola", tema: "Desarrollo Sostenible", estado: "certificado" },
-  { id: 7, nombre: "Edwin Córdova", tema: "Gestión de Cuencas", estado: "certificado" },
-  { id: 8, nombre: "Juan A. Flores", tema: "Uso Eficiente del Agua", estado: "certificado" },
-  { id: 9, nombre: "Bettina Reyna", tema: "Cooperación Internacional", estado: "certificado" },
+  {
+    "id": 1,
+    "nombre": "Daniel Portocarrero",
+    "tema": "SITUACIÓN ACTUAL Y PROPUESTAS PARA LA GESTIÓN DEL SISTEMA ACUÍFERO ICA",
+    "estado": "certificado"
+  },
+  {
+    "id": 2,
+    "nombre": "Juan Luis Camere",
+    "tema": "Consideraciones sobre el balance Hídrico de la Cuenca",
+    "estado": "certificado"
+  },
+  {
+    "id": 3,
+    "nombre": "Pedro Grados",
+    "tema": "Experiencia de Recarga Inducida en los Ríos Rimac y Chillón",
+    "estado": "certificado"
+  },
+  {
+    "id": 4,
+    "nombre": "Alfredo Sotil",
+    "tema": "RECARGA GESTIONADA DEL ACUÍFERO DEL VALLE DE ICA",
+    "estado": "certificado"
+  },
+  {
+    "id": 5,
+    "nombre": "Manuel Olaechea",
+    "tema": "Manejo de Aguas Residuales en los Molinos",
+    "estado": "certificado"
+  },
+  {
+    "id": 6,
+    "nombre": "Egdar Ollachica",
+    "tema": "Automatización de los Pozos y Riego Deficitarios controlado en uvas de mesa",
+    "estado": "certificado"
+  },
+  {
+    "id": 7,
+    "nombre": "Orlando Tito",
+    "tema": "Monitoreo Satelital del Riego en Cultivo Vid",
+    "estado": "certificado"
+  },
+  {
+    "id": 8,
+    "nombre": "Eduardo Vásquez Pizarro",
+    "tema": "Riesgo Complementario con Agua Superficial",
+    "estado": "certificado"
+  },
+  {
+    "id": 9,
+    "nombre": "Luz Heredia",
+    "tema": "Administrando el Agua Potable con la Comunidad",
+    "estado": "certificado"
+  }
 ];
 
 // =====================================================
